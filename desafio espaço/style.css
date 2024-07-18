@@ -1,0 +1,89 @@
+ body{
+    margin: 0;
+    padding: 0;
+
+    box-sizing: border-box;
+}
+
+
+
+.text-center , h1 , .wrepper{
+    text-align: center;
+    
+}
+
+h1 {
+    font-size: 35px;
+}
+
+.text-center {
+    width: 20rem;
+    word-spacing: 10px;
+    
+}
+
+
+.wrepper {
+    margin-right: 10px;
+    display: flex;
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center;     /* Centraliza verticalmente */
+   opacity: 1px;
+  
+}
+
+
+.wrepper {
+    padding: 10px;
+    border: none;
+
+}
+
+
+.img {
+    margin-right: 10px;
+    display: flex;
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center;     /* Centraliza verticalmente */
+   
+  
+}
+
+
+.universe{
+    margin-right: 10px;
+    display: flex;
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center;     /* Centraliza verticalmente */
+    font-size: 22px;
+    line-height: 45px;
+    padding: 3rem;
+}
+
+
+
+.img2 {
+    margin-right: 10px;
+    display: flex;
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center;     /* Centraliza verticalmente */
+   
+}
+
+.img3 {
+    margin-right: 10px;
+    display: flex;
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center;     /* Centraliza verticalmente */
+}
+
+.explore {
+    margin-right: 17px;
+    display: flex;
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center;     /* Centraliza verticalmente */
+    font-size: 22px;
+    line-height: 45px;
+    padding: 2rem;
+}
+
